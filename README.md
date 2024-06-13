@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<br><br>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
